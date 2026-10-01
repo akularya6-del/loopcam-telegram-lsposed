@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_black">#000000</color>
+    <color name="accent_green">#00E676</color>
+    <color name="accent_green_dark">#00C853</color>
+    <color name="status_inactive">#757575</color>
+    <color name="status_active">#00E676</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0B0</color>
+    <color name="surface_dark">#0D0D0D</color>
+    <color name="divider">#1F1F1F</color>
+    <color name="toggle_thumb_on">#00E676</color>
+    <color name="toggle_thumb_off">#616161</color>
+    <color name="toggle_track_on">#1B5E20</color>
+    <color name="toggle_track_off">#212121</color>
+</resources>

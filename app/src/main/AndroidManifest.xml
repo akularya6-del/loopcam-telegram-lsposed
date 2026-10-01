@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ==================== PERMISSIONS ==================== -->
+    <!-- Storage: read video files selected by the user -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <!-- API 33+ granular media permission -->
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
+    <!-- Foreground service for sustained injection while call is active -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_CAMERA" />
+    <!-- Camera permission declared so Android grants us permission dialogs transparently -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- ==================== XPOSED MODULE METADATA ==================== -->
+    <!-- These meta-data tags register this APK as an Xposed/LSPosed module -->
+
+    <application
+        android:name="androidx.multidex.MultiDexApplication"
+        android:allowBackup="false"
+        android:icon="@android:drawable/ic_media_play"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LoopCam">
+
+        <!-- Xposed module declaration -->
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true" />
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Replaces Telegram camera feed with a looping video" />
+        <meta-data
+            android:name="xposedminversion"
+            android:value="82" />
+        <!-- Scope: limit the module to Telegram processes only -->
+        <meta-data
+            android:name="xposedscope"
+            android:resource="@array/xposed_scope" />
+
+        <!-- Dashboard / companion UI activity -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

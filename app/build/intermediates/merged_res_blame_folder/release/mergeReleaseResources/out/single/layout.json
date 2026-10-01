@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/racoon/.gradle/daemon/8.6/com.loopcam.app-mergeReleaseResources-34:/layout/activity_main.xml",
+        "source": "/Users/racoon/.gradle/daemon/8.6/com.loopcam.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.loopcam.app-mergeReleaseResources-34:/layout/activity_main.xml",
+        "source": "com.loopcam.app-main-37:/layout/activity_main.xml"
+    }
+]

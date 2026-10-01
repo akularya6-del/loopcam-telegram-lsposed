@@ -1,0 +1,4 @@
+#Sat Jul 25 01:50:07 IST 2026
+base.0=/Users/racoon/Documents/TG APK/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

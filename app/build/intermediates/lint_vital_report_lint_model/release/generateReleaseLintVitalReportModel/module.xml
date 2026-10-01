@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/racoon/Documents/TG APK/app"
+    name=":app"
+    type="APP"
+    maven="LoopCam:app:"
+    agpVersion="8.3.2"
+    buildFolder="build"
+    bootClassPath="/Users/racoon/Library/Android/sdk/platforms/android-34/android.jar:/Users/racoon/Library/Android/sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

@@ -1,0 +1,39 @@
+com.loopcam.app-lifecycle-livedata-2.6.2-0 /Users/racoon/.gradle/caches/transforms-4/10d4bc629fd7290f1778bbfdd152de2f/transformed/lifecycle-livedata-2.6.2/res
+com.loopcam.app-jetified-profileinstaller-1.3.1-1 /Users/racoon/.gradle/caches/transforms-4/169d9d6eb2c29320c8b8cfdba9a3f58e/transformed/jetified-profileinstaller-1.3.1/res
+com.loopcam.app-drawerlayout-1.1.1-2 /Users/racoon/.gradle/caches/transforms-4/19f370b9f0843724b3744db3dee1963f/transformed/drawerlayout-1.1.1/res
+com.loopcam.app-transition-1.5.0-3 /Users/racoon/.gradle/caches/transforms-4/1a1a6e5658a432de351dbe43ba11625c/transformed/transition-1.5.0/res
+com.loopcam.app-coordinatorlayout-1.1.0-4 /Users/racoon/.gradle/caches/transforms-4/26624347109e273ee8a5ce5f3b441b6f/transformed/coordinatorlayout-1.1.0/res
+com.loopcam.app-jetified-viewpager2-1.0.0-5 /Users/racoon/.gradle/caches/transforms-4/2b6e334c4a7439dd683c860f7adc5402/transformed/jetified-viewpager2-1.0.0/res
+com.loopcam.app-material-1.12.0-6 /Users/racoon/.gradle/caches/transforms-4/2bbfecf26a4cdbd64a2503844f6fec34/transformed/material-1.12.0/res
+com.loopcam.app-lifecycle-livedata-core-2.6.2-7 /Users/racoon/.gradle/caches/transforms-4/2e1e9aa6d8544f213d6ba8633a735539/transformed/lifecycle-livedata-core-2.6.2/res
+com.loopcam.app-jetified-activity-ktx-1.9.0-8 /Users/racoon/.gradle/caches/transforms-4/468f549d7b95b4998ec832a11e97c6b7/transformed/jetified-activity-ktx-1.9.0/res
+com.loopcam.app-cardview-1.0.0-9 /Users/racoon/.gradle/caches/transforms-4/556846f7a419e7b8fa806a9efc68737b/transformed/cardview-1.0.0/res
+com.loopcam.app-jetified-appcompat-resources-1.7.0-10 /Users/racoon/.gradle/caches/transforms-4/59cfed9065616eebf848206912a1b54e/transformed/jetified-appcompat-resources-1.7.0/res
+com.loopcam.app-jetified-lifecycle-viewmodel-ktx-2.6.2-11 /Users/racoon/.gradle/caches/transforms-4/5a5fe0e05ccee9688088331cc93faa80/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/res
+com.loopcam.app-constraintlayout-2.1.4-12 /Users/racoon/.gradle/caches/transforms-4/60115bed8ac82bdc3bcf249503df4a09/transformed/constraintlayout-2.1.4/res
+com.loopcam.app-jetified-annotation-experimental-1.4.0-13 /Users/racoon/.gradle/caches/transforms-4/64eec7073e74ef91746a7b42b0954ba8/transformed/jetified-annotation-experimental-1.4.0/res
+com.loopcam.app-jetified-lifecycle-runtime-ktx-2.6.2-14 /Users/racoon/.gradle/caches/transforms-4/666103902ea6e0d16490b7c071c717f9/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res
+com.loopcam.app-jetified-lifecycle-process-2.6.2-15 /Users/racoon/.gradle/caches/transforms-4/6c9902b770571de0e9eaa9eb58c63781/transformed/jetified-lifecycle-process-2.6.2/res
+com.loopcam.app-jetified-savedstate-ktx-1.2.1-16 /Users/racoon/.gradle/caches/transforms-4/84a1c2df094aeddf9bf3bb68266faa91/transformed/jetified-savedstate-ktx-1.2.1/res
+com.loopcam.app-appcompat-1.7.0-17 /Users/racoon/.gradle/caches/transforms-4/8cb1cffd669f907fc490cf79357021e2/transformed/appcompat-1.7.0/res
+com.loopcam.app-jetified-emoji2-1.3.0-18 /Users/racoon/.gradle/caches/transforms-4/8fa67e3f79367843d18e73c76e0e167b/transformed/jetified-emoji2-1.3.0/res
+com.loopcam.app-core-1.13.1-19 /Users/racoon/.gradle/caches/transforms-4/977f06a6b0b1cbe9a737a9134def6fd7/transformed/core-1.13.1/res
+com.loopcam.app-jetified-startup-runtime-1.1.1-20 /Users/racoon/.gradle/caches/transforms-4/9b1137ee530b2ec57888bb12abf9aac8/transformed/jetified-startup-runtime-1.1.1/res
+com.loopcam.app-jetified-emoji2-views-helper-1.3.0-21 /Users/racoon/.gradle/caches/transforms-4/a084b1217b0734cc9192cb36e19546cf/transformed/jetified-emoji2-views-helper-1.3.0/res
+com.loopcam.app-lifecycle-viewmodel-2.6.2-22 /Users/racoon/.gradle/caches/transforms-4/a2f34d57949f8d5886c3f43f159feb23/transformed/lifecycle-viewmodel-2.6.2/res
+com.loopcam.app-recyclerview-1.1.0-23 /Users/racoon/.gradle/caches/transforms-4/a70605bf3aeccfb2af249447cb25946b/transformed/recyclerview-1.1.0/res
+com.loopcam.app-jetified-core-ktx-1.13.1-24 /Users/racoon/.gradle/caches/transforms-4/a7d8d44b19786737a4eddcdbd01477dd/transformed/jetified-core-ktx-1.13.1/res
+com.loopcam.app-jetified-savedstate-1.2.1-25 /Users/racoon/.gradle/caches/transforms-4/bba0cc786859ea5a98b6b40b5a5b8fb3/transformed/jetified-savedstate-1.2.1/res
+com.loopcam.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-26 /Users/racoon/.gradle/caches/transforms-4/bf499d7ba9f0b1072216172872a30dfd/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.loopcam.app-fragment-1.5.4-27 /Users/racoon/.gradle/caches/transforms-4/cdd21f7c58ab0617af64de2dc4916573/transformed/fragment-1.5.4/res
+com.loopcam.app-jetified-activity-1.9.0-28 /Users/racoon/.gradle/caches/transforms-4/d74b43333f4219f72f856ce138d0a686/transformed/jetified-activity-1.9.0/res
+com.loopcam.app-lifecycle-runtime-2.6.2-29 /Users/racoon/.gradle/caches/transforms-4/e1def1093c86332e2602a40d7f6e7827/transformed/lifecycle-runtime-2.6.2/res
+com.loopcam.app-core-runtime-2.2.0-30 /Users/racoon/.gradle/caches/transforms-4/ff3f7c37ef22c714a0f402766fa0d22e/transformed/core-runtime-2.2.0/res
+com.loopcam.app-pngs-31 /Users/racoon/Documents/TG APK/app/build/generated/res/pngs/release
+com.loopcam.app-resValues-32 /Users/racoon/Documents/TG APK/app/build/generated/res/resValues/release
+com.loopcam.app-packageReleaseResources-33 /Users/racoon/Documents/TG APK/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.loopcam.app-packageReleaseResources-34 /Users/racoon/Documents/TG APK/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.loopcam.app-merged-not-compiled-resources-35 /Users/racoon/Documents/TG APK/app/build/intermediates/merged-not-compiled-resources/release
+com.loopcam.app-release-36 /Users/racoon/Documents/TG APK/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.loopcam.app-main-37 /Users/racoon/Documents/TG APK/app/src/main/res
+com.loopcam.app-release-38 /Users/racoon/Documents/TG APK/app/src/release/res

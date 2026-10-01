@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Xposed module scope: only hook into these Telegram package variants -->
+    <string-array name="xposed_scope">
+        <item>org.telegram.messenger</item>
+        <item>org.telegram.messenger.web</item>
+    </string-array>
+</resources>

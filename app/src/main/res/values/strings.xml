@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoopCam</string>
+    <string name="btn_select_video">SELECT VIDEO</string>
+    <string name="label_no_video">No video selected</string>
+    <string name="status_inactive">INACTIVE</string>
+    <string name="status_injecting">INJECTING</string>
+    <string name="toggle_label">Fake Camera</string>
+    <string name="permission_rationale_storage">LoopCam needs storage access to read your selected video file.</string>
+    <string name="permission_denied">Storage permission denied. Cannot select video.</string>
+</resources>

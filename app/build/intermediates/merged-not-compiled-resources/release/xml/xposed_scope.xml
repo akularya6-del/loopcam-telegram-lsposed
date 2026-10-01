@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Xposed scope array is declared in res/values/arrays.xml -->
+<!-- This file is kept for LSPosed Manager UI compatibility -->
+<resources/>
+
